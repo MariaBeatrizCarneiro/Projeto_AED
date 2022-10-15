@@ -1,5 +1,4 @@
 .idea
 cmake-build-debug/
 Ness_Class.docx
-tests.exe
-Trabalho_Algortimos.exe
+*.exe
