@@ -1,5 +1,5 @@
 .idea
-cmake-build-debug
-Classes necessárias para trabalho de Algoritmos.docx
+cmake-build-debug/
+Ness_Class.docx
 tests.exe
 Trabalho_Algortimos.exe
