@@ -1,0 +1,3 @@
+C:/Users/Cristiano/Desktop/OneDrive - Universidade do Porto/2 Ano/Algoritmos e Estruturas de Dados/Trabalho_Algortimos/cmake-build-debug/CMakeFiles/Trabalho_Algortimos.dir
+C:/Users/Cristiano/Desktop/OneDrive - Universidade do Porto/2 Ano/Algoritmos e Estruturas de Dados/Trabalho_Algortimos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cristiano/Desktop/OneDrive - Universidade do Porto/2 Ano/Algoritmos e Estruturas de Dados/Trabalho_Algortimos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
