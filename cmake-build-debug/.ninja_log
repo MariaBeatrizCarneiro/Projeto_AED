@@ -1,13 +1,4 @@
 # ninja log v5
 4	568	6875591145576874	CMakeFiles/Trabalho_Algortimos.dir/tests.cpp.obj	b34a08d42f34dcda
-568	686	6875591146724116	../Trabalho_Algortimos.exe	a860d5f9b94add08
-1	492	6875599903817673	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
-495	612	6875599904974256	../Trabalho_Algortimos.exe	e5297bdcd859840f
-3	652	6875599997211819	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
-653	766	6875599998318914	../Trabalho_Algortimos.exe	e5297bdcd859840f
-3	520	6875600294533148	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
-521	637	6875600295640129	../Trabalho_Algortimos.exe	e5297bdcd859840f
-5	549	6875602529600959	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
-550	705	6875602530967306	../Trabalho_Algortimos.exe	e5297bdcd859840f
-4	507	6875608246644354	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
 507	627	6875608247816771	../Trabalho_Algortimos.exe	e5297bdcd859840f
+4	507	6875608246644354	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.obj	416a0d85115d3a0b
