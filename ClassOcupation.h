@@ -20,7 +20,7 @@ void ClassOcupation(Manager m) {
 
     //Constrains
     if (cn.length() > 2 || !(regex_search(cn, regex("[0-9]{1,2}")))) {cout << "INVALID CLASS NUMBER!" << endl; error = true;}
-    if (year.length() > 1 || !(regex_search(year, regex("[1-6]{1}")))) {cout << "INVALID YEAR" << endl; error = true;}
+    if (year.length() > 1 || !(regex_search(year, regex("[1-6]{1}")))) {cout << "INVALID YEAR!" << endl; error = true;}
     if (uc.length() != 8 || !(regex_search(uc,regex("[A-Z]{1}[.]{1}[A-Z]{3}[0-9]{3}")))) {cout << "INVALID UC!" << endl; error = true;}
     if (error) return;
 

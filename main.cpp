@@ -5,7 +5,7 @@
 #include "Student.h"
 #include "ClassOcupation.h"
 #include "StudentSchedule.h"
-#include "DisplayStudentsInClass.h"
+#include "DisplayStudentsInClassUcYear.h"
 
 using namespace std;
 
@@ -51,7 +51,7 @@ int main()
                         break;
                     }
                     case '3':
-                        DisplayStudentsInClass(m);
+                        DisplayStudentsInClassUcYear(m);
                         break;
                     case '4':
                         break;

@@ -1,10 +1,13 @@
 # ninja log v5
-651	687	1667050515671980246	../Trabalho_Algortimos	c582d478da8b8f28
-2	398	1667050430158754428	CMakeFiles/Trabalho_Algortimos.dir/Manager.cpp.o	6dfd0f5652632211
-1	278	1667050430037394592	CMakeFiles/Trabalho_Algortimos.dir/UcTurma.cpp.o	4830697391676eff
-1	651	1667050515633474777	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.o	13fc595913d949aa
-0	13	0	clean	24b21efe33e88f16
-2	279	1667050430038657610	CMakeFiles/Trabalho_Algortimos.dir/ClassSchedule.cpp.o	236d1cdc4900a491
-1	314	1667050430073901808	CMakeFiles/Trabalho_Algortimos.dir/Student.cpp.o	14b616dc4c2050c9
-0	56	1667051135510398381	build.ninja	c52c10e6af570b62
 3665	6044	6887375425984683	../Trabalho_Algortimos.exe	eb70acf926cf5888
+0	56	1667144402917279862	build.ninja	c52c10e6af570b62
+1	314	1667050430073901808	CMakeFiles/Trabalho_Algortimos.dir/Student.cpp.o	14b616dc4c2050c9
+2	279	1667050430038657610	CMakeFiles/Trabalho_Algortimos.dir/ClassSchedule.cpp.o	236d1cdc4900a491
+0	13	0	clean	24b21efe33e88f16
+2	661	1667144025100799921	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.o	13fc595913d949aa
+1	278	1667050430037394592	CMakeFiles/Trabalho_Algortimos.dir/UcTurma.cpp.o	4830697391676eff
+2	398	1667050430158754428	CMakeFiles/Trabalho_Algortimos.dir/Manager.cpp.o	6dfd0f5652632211
+661	697	1667144025139541038	../Trabalho_Algortimos	c582d478da8b8f28
+0	60	1667144402917279862	build.ninja	c52c10e6af570b62
+2	802	1667144403722804061	CMakeFiles/Trabalho_Algortimos.dir/main.cpp.o	13fc595913d949aa
+802	850	1667144403775558858	../Trabalho_Algortimos	c582d478da8b8f28
