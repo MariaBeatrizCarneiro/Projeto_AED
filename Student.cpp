@@ -21,3 +21,7 @@ bool Student::operator<(const Student& s) const {
     {return mecaNumber_ < s.mecaNumber_;}
 }
 
+Student::Student(std::string basicString) {
+
+}
+

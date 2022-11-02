@@ -50,12 +50,13 @@ int main()
                         StudentSchedule(m);
                         break;
                     }
-                    case '3':
+                    case '3': {
                         DisplayStudentsInClassUcYear(m);
                         break;
-                    case '4':
+                    }
+                    case '4': {
                         break;
-
+                    }
                     case 'b':
                         break;
                     default:

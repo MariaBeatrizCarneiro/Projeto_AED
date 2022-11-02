@@ -29,6 +29,8 @@ public:
 
     //Student Operator Overloading
     bool operator<(const Student& s) const;
+
+    Student(std::string basicString);
 };
 
 #endif //LOADCLASSES_H_STUDENT_H
